@@ -1,13 +1,29 @@
-- title: Student, Kathmandu University [B.E in Electrical and Electronics Engineering]
-  from: 2012
-  to: 2016
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: DevOps Engineer, CloudHero, Romania (Remote)
+  from: 2024
+  to: present
+  description: Coordinated infrastructure modernization with minimal downtime, leveraging Kubernetes, ECS, and cloud services for scalability. Managed Cloudflare for security, strengthened cloud security with AWS tools, implemented IaC with Terraform, built CI/CD pipelines, deployed applications using Helm, optimized AWS scaling with BottleRocket, documented processes, and delivered multi-cloud solutions across AWS, GCP, Azure, and more.
 
-- title: L2 Support and Monitoring, Worldlink Communications, Lalitpur Nepal
+- title: Senior DevOps Engineer, Leapfrog Technology, Kathmandu, Nepal
+  from: 2024
+  to: 2024
+  description: Implemented IaC with Terraform for consistent cloud provisioning, led GitOps transitions, integrated security automation in CI/CD, deployed scalable apps with ECS/EKS, set up resilient HashiCorp Vault, enhanced deployment automation, and mentored team members.
+
+- title: Software Engineer, StackGuardian BV, Belgium (Remote)
+  from: 2023
+  to: 2023
+  description: Developed multi-cloud infrastructure with Terraform for AWS, Azure, and GCP, integrated Python for AWS services, implemented scalable logging solutions, facilitated impact demos, and led research on CI/CD integration and cloud-native tools.
+
+- title: DevOps Engineer, Ekbana Solutions, Lalitpur, Nepal
+  from: 2020
+  to: 2023
+  description: Led Linux server management and DevOps initiatives, driving GitOps adoption, automating AWS operations with Python, orchestrating EKS deployments, enhancing monitoring, and implementing secure CI/CD pipelines, while mentoring a team of four engineers.
+
+- title: L2 Support and Monitoring, Worldlink Communications, Lalitpur, Nepal
   from: 2017
   to: 2020
   description: Managed and troubleshot Huawei and Nokia OLTs, BRAS, and network infrastructure, optimized connectivity, trained support teams, and ensured system reliability through proactive issue escalation and collaboration.
+
+- title: Student, Kathmandu University [B.E in Electrical and Electronics Engineering]
+  from: 2012
+  to: 2016
+  description: Learning and grinding.
