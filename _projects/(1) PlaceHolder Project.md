@@ -1,7 +1,7 @@
 ---
-name: PlaceHolder Project
-tools: [nothing, important]
-image: https://www.sketchappsources.com/resources/source-image/project-neon-groove-music-ui.png
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-external_url: https://www.google.com
+name: kube-lookout
+tools: [k8s, slack, notification, python, kube-api]
+image: https://miro.medium.com/v2/resize:fit:720/format:webp/0*-pRgqIHMjNyj6Mne
+description: Send slack notification based on rollout or degraded k8s deployment.
+external_url: https://medium.com/@bnay14/kube-lookout-af63bb49a4fe
 ---
