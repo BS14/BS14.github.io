@@ -1,8 +1,8 @@
 ---
 title: Shipping Docker logs to Amazon S3 using Fluent Bit.
 tags: [Docker, Fluentbit, AWS S3, Logs]
-style:
-color:
+style: fill
+color: success
 description: Shipping docker logs to amazon s3 using fluentbit.
 ---
 Source: [Binaya Sharma](https://medium.com/p/9375eb7225ee)
